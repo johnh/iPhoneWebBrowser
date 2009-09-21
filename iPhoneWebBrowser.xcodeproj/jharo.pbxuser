@@ -29,9 +29,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {879, 1497}}";
-			sepNavSelRange = "{1074, 0}";
-			sepNavVisRange = "{435, 967}";
+			sepNavIntBoundsRect = "{{0, 0}, {439, 1545}}";
+			sepNavSelRange = "{1618, 0}";
+			sepNavVisRange = "{851, 299}";
 			sepNavWindowFrame = "{{1455, 724}, {846, 471}}";
 		};
 	};
@@ -70,159 +70,16 @@
 			PBXWorkspaceStateSaveDate = 275195001;
 		};
 		perUserProjectItems = {
-			8107251E106724860031A9D0 /* PBXTextBookmark */ = 8107251E106724860031A9D0 /* PBXTextBookmark */;
-			8107251F106724860031A9D0 /* PlistBookmark */ = 8107251F106724860031A9D0 /* PlistBookmark */;
-			8107253C106737A80031A9D0 /* XCBuildMessageTextBookmark */ = 8107253C106737A80031A9D0 /* XCBuildMessageTextBookmark */;
-			8107253D106737A80031A9D0 /* PBXTextBookmark */ = 8107253D106737A80031A9D0 /* PBXTextBookmark */;
-			81072546106739850031A9D0 /* PlistBookmark */ = 81072546106739850031A9D0 /* PlistBookmark */;
-			81072547106739850031A9D0 /* PBXTextBookmark */ = 81072547106739850031A9D0 /* PBXTextBookmark */;
-			81072548106739850031A9D0 /* PBXTextBookmark */ = 81072548106739850031A9D0 /* PBXTextBookmark */;
-			81072549106739850031A9D0 /* PBXTextBookmark */ = 81072549106739850031A9D0 /* PBXTextBookmark */;
-			8107254A106739850031A9D0 /* PBXTextBookmark */ = 8107254A106739850031A9D0 /* PBXTextBookmark */;
-			8107254B106739850031A9D0 /* PBXTextBookmark */ = 8107254B106739850031A9D0 /* PBXTextBookmark */;
-			8107254E10673A600031A9D0 /* PBXTextBookmark */ = 8107254E10673A600031A9D0 /* PBXTextBookmark */;
-			8107254F10673B200031A9D0 /* PBXTextBookmark */ = 8107254F10673B200031A9D0 /* PBXTextBookmark */;
 			8107255210673F010031A9D0 /* PlistBookmark */ = 8107255210673F010031A9D0 /* PlistBookmark */;
 			8107255310673F010031A9D0 /* PBXTextBookmark */ = 8107255310673F010031A9D0 /* PBXTextBookmark */;
-			8107255410673F010031A9D0 /* PBXTextBookmark */ = 8107255410673F010031A9D0 /* PBXTextBookmark */;
-			8107255510673F010031A9D0 /* PBXTextBookmark */ = 8107255510673F010031A9D0 /* PBXTextBookmark */;
 			81072558106741470031A9D0 /* PBXTextBookmark */ = 81072558106741470031A9D0 /* PBXTextBookmark */;
 			81072559106741470031A9D0 /* PBXTextBookmark */ = 81072559106741470031A9D0 /* PBXTextBookmark */;
 			8107255A106741470031A9D0 /* PBXTextBookmark */ = 8107255A106741470031A9D0 /* PBXTextBookmark */;
-			8107255B106741470031A9D0 /* PBXTextBookmark */ = 8107255B106741470031A9D0 /* PBXTextBookmark */;
-			8107255C106741670031A9D0 /* PBXTextBookmark */ = 8107255C106741670031A9D0 /* PBXTextBookmark */;
-			8107255D106741C00031A9D0 /* PBXTextBookmark */ = 8107255D106741C00031A9D0 /* PBXTextBookmark */;
-			81A60BD01067246300FEB3AC = 81A60BD01067246300FEB3AC /* PBXTextBookmark */;
-			81A60BD11067246300FEB3AC = 81A60BD11067246300FEB3AC /* PlistBookmark */;
-			81A60BD21067246300FEB3AC = 81A60BD21067246300FEB3AC /* PBXTextBookmark */;
-			81A60BD31067246300FEB3AC = 81A60BD31067246300FEB3AC /* PBXTextBookmark */;
-			81A60BD41067246300FEB3AC = 81A60BD41067246300FEB3AC /* PBXBookmark */;
-			81A60BD51067246300FEB3AC = 81A60BD51067246300FEB3AC /* PBXTextBookmark */;
+			8107255E106744350031A9D0 /* PBXTextBookmark */ = 8107255E106744350031A9D0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 81A60BB81067036600FEB3AC /* Source Control */;
 		userBuildSettings = {
 		};
-	};
-	8107251E106724860031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneWebBrowserViewController.h */;
-		name = "iPhoneWebBrowserViewController.h: 13";
-		rLen = 0;
-		rLoc = 440;
-		rType = 0;
-		vrLen = 329;
-		vrLoc = 0;
-	};
-	8107251F106724860031A9D0 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* iPhoneWebBrowser-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/jharo/_dev/PramaticProgrammers_cocoa/iPhoneWebBrowser/iPhoneWebBrowser-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	8107253C106737A80031A9D0 /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "'viewDidLoad' undeclared (first use in this function)";
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 68;
-		rType = 1;
-	};
-	8107253D106737A80031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 40";
-		rLen = 0;
-		rLoc = 1618;
-		rType = 0;
-		vrLen = 184;
-		vrLoc = 899;
-	};
-	81072546106739850031A9D0 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* iPhoneWebBrowser-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/jharo/_dev/PramaticProgrammers_cocoa/iPhoneWebBrowser/iPhoneWebBrowser-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	81072547106739850031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* iPhoneWebBrowserAppDelegate.m */;
-		name = "iPhoneWebBrowserAppDelegate.m: 18";
-		rLen = 0;
-		rLoc = 368;
-		rType = 0;
-		vrLen = 660;
-		vrLoc = 0;
-	};
-	81072548106739850031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* iPhoneWebBrowserAppDelegate.h */;
-		name = "iPhoneWebBrowserAppDelegate.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 530;
-		vrLoc = 0;
-	};
-	81072549106739850031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneWebBrowserViewController.h */;
-		name = "iPhoneWebBrowserViewController.h: 11";
-		rLen = 0;
-		rLoc = 290;
-		rType = 0;
-		vrLen = 351;
-		vrLoc = 0;
-	};
-	8107254A106739850031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 19";
-		rLen = 0;
-		rLoc = 644;
-		rType = 0;
-		vrLen = 862;
-		vrLoc = 0;
-	};
-	8107254B106739850031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 39";
-		rLen = 0;
-		rLoc = 1078;
-		rType = 0;
-		vrLen = 773;
-		vrLoc = 343;
-	};
-	8107254E10673A600031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 36";
-		rLen = 0;
-		rLoc = 828;
-		rType = 0;
-		vrLen = 816;
-		vrLoc = 343;
-	};
-	8107254F10673B200031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 60";
-		rLen = 0;
-		rLoc = 1618;
-		rType = 0;
-		vrLen = 438;
-		vrLoc = 837;
 	};
 	8107255210673F010031A9D0 /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -244,26 +101,6 @@
 		rType = 0;
 		vrLen = 818;
 		vrLoc = 345;
-	};
-	8107255410673F010031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneWebBrowserViewController.h */;
-		name = "iPhoneWebBrowserViewController.h: 11";
-		rLen = 0;
-		rLoc = 290;
-		rType = 0;
-		vrLen = 351;
-		vrLoc = 0;
-	};
-	8107255510673F010031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneWebBrowserViewController.h */;
-		name = "iPhoneWebBrowserViewController.h: 16";
-		rLen = 0;
-		rLoc = 441;
-		rType = 0;
-		vrLen = 451;
-		vrLoc = 0;
 	};
 	81072558106741470031A9D0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -295,27 +132,7 @@
 		vrLen = 451;
 		vrLoc = 0;
 	};
-	8107255B106741470031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 45";
-		rLen = 0;
-		rLoc = 1074;
-		rType = 0;
-		vrLen = 965;
-		vrLoc = 435;
-	};
-	8107255C106741670031A9D0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 69";
-		rLen = 0;
-		rLoc = 1618;
-		rType = 0;
-		vrLen = 387;
-		vrLoc = 880;
-	};
-	8107255D106741C00031A9D0 /* PBXTextBookmark */ = {
+	8107255E106744350031A9D0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
 		name = "iPhoneWebBrowserViewController.m: 45";
@@ -366,60 +183,5 @@
 	81A60BB91067036600FEB3AC /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	81A60BD01067246300FEB3AC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* iPhoneWebBrowserAppDelegate.m */;
-		name = "iPhoneWebBrowserAppDelegate.m: 18";
-		rLen = 0;
-		rLoc = 402;
-		rType = 0;
-		vrLen = 660;
-		vrLoc = 0;
-	};
-	81A60BD11067246300FEB3AC /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* iPhoneWebBrowser-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/jharo/_dev/PramaticProgrammers_cocoa/iPhoneWebBrowser/iPhoneWebBrowser-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	81A60BD21067246300FEB3AC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* iPhoneWebBrowserAppDelegate.h */;
-		name = "iPhoneWebBrowserAppDelegate.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 530;
-		vrLoc = 0;
-	};
-	81A60BD31067246300FEB3AC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* iPhoneWebBrowserViewController.m */;
-		name = "iPhoneWebBrowserViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 847;
-		vrLoc = 0;
-	};
-	81A60BD41067246300FEB3AC /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneWebBrowserViewController.h */;
-	};
-	81A60BD51067246300FEB3AC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* iPhoneWebBrowserViewController.h */;
-		name = "iPhoneWebBrowserViewController.h: 13";
-		rLen = 0;
-		rLoc = 440;
-		rType = 0;
-		vrLen = 329;
-		vrLoc = 0;
 	};
 }
