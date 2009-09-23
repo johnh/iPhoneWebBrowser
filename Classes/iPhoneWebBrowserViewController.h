@@ -13,6 +13,7 @@
 	IBOutlet UITextField *URLTextField;
 	IBOutlet UIBarButtonItem *backButton;
 	IBOutlet UIBarButtonItem *forwardButton;
+	IBOutlet UIActivityIndicatorView *activityView;
 
 }
 

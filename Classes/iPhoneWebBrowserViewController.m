@@ -32,7 +32,7 @@
 - (BOOL) textFieldShouldReturn:(UITextField *)textField {
 	[self loadURLFromTextField];
 	[textField resignFirstResponder];
-	[self enableWebView];
+	
 	return YES;
 }
 
@@ -41,8 +41,17 @@
 	[forwardButton setEnabled:[theWebView canGoForward]];
 }
 
+- (void)webViewDidStartLoad:(UIWebView *)theWebView { 
+	[self disableWebView]; 
+	[activityView startAnimating];
+	
+}
+
 - (void)webViewDidFinishLoad:(UIWebView *)theWebView {
 	[self resetButtons:theWebView];
+	[activityView stopAnimating];
+	[self enableWebView];
+	URLTextField.text = [[theWebView.request URL] absoluteString];
 }
 
 
